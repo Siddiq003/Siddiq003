@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python for Data science
 - 💞️ I’m looking to collaborate on Associate
-- 📫 To reach me 9042033957
+- 📫 To reach me siddiqsid1207@gmail.com
 
 <!---
 Siddiq003/Siddiq003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
